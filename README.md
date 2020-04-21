@@ -83,6 +83,7 @@ Unity brain name: TennisBrain
 ### Instructions
 
 Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+Also, use requirements.txt to setup the necessary modules.
 
 ### (Optional) Challenge: Crawler Environment
 
